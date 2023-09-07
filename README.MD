@@ -4,5 +4,5 @@
 
 Repo com prática de projetos durante o treinamento.
 
-![Imagem do Projeto](./IMG/certificado.png)
-![Imagem do Projeto](./IMG/certificado-verso.png)
+![Imagem do Projeto](certificado.png)
+![Imagem do Projeto](certificado-verso.png)
